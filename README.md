@@ -1,13 +1,5 @@
-<br />
-<p align="center">
-    <img src="https://i.ibb.co/Pr8wRn4/profile.gif" alt="Logo" width="1000">
 
-  <h3 align="center">Profile component by <a href="https://github.com/Lorenalgm">Lorena</a></h3>
- <br />
-  <p align="center">
-     Perfil de um usuário
-       <br />
-    <br />
+<br>Perfil de um usuário</br>
         
 <h2>Código feito no Repl.it e somente importado para o Github</h2>
     
