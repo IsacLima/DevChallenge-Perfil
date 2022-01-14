@@ -8,7 +8,9 @@
      Perfil de um usuário
        <br />
     <br />
-
+        
+<h2>Código feito na Repl.it e smoente importado para o Github</h2>
+    
 # Desafio
 O desafio é criar um componete de um perfil de um usuário! O modelo final está disponível na pasta "design"
 
