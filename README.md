@@ -9,20 +9,6 @@
        <br />
     <br />
 
-## Índice
-
-* [Devchallenge](#devchallenge) 
-* [Desafio](#desafio)
-* [Techs](#techs)
-* [Como começar](#como-começar)
-* [Dicas](#dicas)  
-  * [Cores](#cores)
-  * [Modelo](#modelo)
-  * [Imagens](#imagens)
-  * [Icones](#icones)
-  * [Tipo de fonte](#tipo-de-fonte)
-* [Compartilhe](#compartilhe)
-
 # Desafio
 O desafio é criar um componete de um perfil de um usuário! O modelo final está disponível na pasta "design"
 
