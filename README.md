@@ -1,13 +1,10 @@
 # Perfil de Usuário
     
-# Desafio
-O desafio é criar um componete de um perfil de um usuário! O modelo final está disponível na pasta "design"
+## acesso ao site na descrição ou você pode [clicar aqui](https://isaclima.github.io/DevChallenge-Perfil/) também
 
-## Requisitos:
-- A página exibir o nome e username do usuário.<br>
-- A página deverá exibir as informaçes de projetos, estrelas e seguidores de um usuário<br>
-- A página deverá ser responsiva
+#Sobre
 
+ O site simula a apresentação de um perfil de alguma rede social genérica com responsividade. 
 
 # Techs: 
 - HTML
